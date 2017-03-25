@@ -1,0 +1,7 @@
+.fret {
+  background: url('https://github.com/mhar-andal/mhacks-guitarhero/blob/master/public/FretBoard2.jpg?raw=true');
+  background-size: cover;
+  height: 100%;
+  width: 75%;
+  z-index: -1;
+}
